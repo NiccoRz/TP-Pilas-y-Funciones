@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\nicor\onedrive\escritorio\utn\aprimeraño\programación y laboratorio i\workspacec\ruiznicolas - tp pilasavanzadas y funciones\pila.c
+	"pila.h"
+
+1490112217 c:\users\nicor\onedrive\escritorio\utn\aprimeraño\programación y laboratorio i\workspacec\ruiznicolas - tp pilasavanzadas y funciones\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1651524920 source:c:\users\nicor\onedrive\escritorio\utn\aprimeraño\programación y laboratorio i\workspacec\ruiznicolas - tp pilasavanzadas y funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
